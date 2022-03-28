@@ -1,3 +1,4 @@
+--didnt obfuscated this beacause its barely used
 print("Executed")
 local bb = game:service "VirtualUser"
 game:service "Players".LocalPlayer.Idled:connect(
